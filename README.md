@@ -123,8 +123,8 @@ MediTrack/
 │               ├── Main.java
 │               └── TestRunner.java
 ├── docs/
-│   ├── Setup_Instructions.md
-│   └── JVM_Report.md
+│   ├── setup_instructions.md
+│   └── JVM_report.md
 ├── pom.xml
 ├── mvnw
 ├── mvnw.cmd
