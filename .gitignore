@@ -1,0 +1,50 @@
+# Compiled Java Class Files
+*.class
+
+# Build Output Directories
+target/
+build/
+out/
+bin/
+
+# IDE Configuration & Metadata
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# VS Code
+.vscode/
+
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Temporary Files, Logs & Scratch Files
+*.log
+*.tmp
+*.swp
+*~
+scratch/
+
+# Local Environment Files & Secrets
+.env
+.env.local
+
+# Test & Coverage Outputs
+.bsse/
+*.exec
+*.dump
+coverage/
+
+files/
